@@ -1,7 +1,7 @@
 # Angular Master
 
 Angular Master gem allow you to easily include angularjs and associated libraries easily into your rails app. All the libraries of AngularJS are open sourced.
-
+[![Gem Version](https://badge.fury.io/rb/angular_master.svg)](https://badge.fury.io/rb/angular_master)
 
 ## Installation
 

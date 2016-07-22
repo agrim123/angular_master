@@ -30,23 +30,24 @@ require the following files in application.css to use [Angular Material](https:/
 ```
 ### b. Javascript
  require the following files in application.js
-1. for AngularJS
+
+#### for AngularJS
 ```js
 	//= require angular
 ```
-2. for Angular UI Router
+#### for Angular UI Router
 ```js
 	//= require angular-ui-router
 ```
-3. for Angular Moment
+#### for Angular Moment
 ```js
 	//= require angular-moment
 ```
-4. for Angular Filter
+#### for Angular Filter
 ```js
 	//= require angular-filter
 ```
-5. for Angular Material (remember to use this while including css file for angular material)
+#### for Angular Material (remember to use this while including css file for angular material)
 ```js
 	//= require angular-material
 ```

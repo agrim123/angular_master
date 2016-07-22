@@ -1,6 +1,6 @@
 # Angular Master
 
-
+Angular Master gem allow you to easily include angularjs and associated libraries easily into your rails app. All the libraries of AngularJS are open sourced.
 
 
 ## Installation
@@ -53,7 +53,7 @@ require the following files in application.css to use [Angular Material](https:/
 ```
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/angular_master.
+Bug reports and pull requests are welcome on GitHub at https://github.com/agrim123/angular_master.
 
 ## License
 
